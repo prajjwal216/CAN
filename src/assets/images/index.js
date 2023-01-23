@@ -1,0 +1,38 @@
+const Images = {
+  logo: require('./logo.png'),
+  drawericon: require('../drawerimage/drawer.png'),
+  profileicon: require('../drawerimage/profile.png'),
+  referralicon: require('../drawerimage/referral.png'),
+  settingsicon: require('../drawerimage/settings.png'),
+  logouticon: require('../drawerimage/logout.png'),
+  homeicon: require('../tabimage/home.png'),
+  calendericon: require('../tabimage/calender.png'),
+  chaticon: require('../tabimage/chat.png'),
+  forumicon: require('../tabimage/forum.png'),
+  portfolioicon: require('../tabimage/portfolio.png'),
+  home_outlineicon: require('../tabimage/home-outline.png'),
+  calender_outlineicon: require('../tabimage/calender-outline.png'),
+  chat_outlineicon: require('../tabimage/chat-outline.png'),
+  forum_outlineicon: require('../tabimage/forum-outline.png'),
+  portfolio_outlineicon: require('../tabimage/portfolio-outline.png'),
+  onboardingSlide1: require('./m1.png'),
+  onboardingSlide2: require('./m2.png'),
+  onboardingSlide3: require('./m3.png'),
+  onboardingButton: require('./Group.png'),
+  onboardingCANlogo: require('./onboardLogo.png'),
+  doc: require('./doc.png'),
+  pdf: require('./pdf.png'),
+  imageicon: require('./galleryimage.png'),
+  backward: require('./backward.png'),
+  backwardsmall: require('./backward2.png'),
+  forward: require('./forward.png'),
+  forwardsmall: require('./forward2.png'),
+
+  chatSend: require('../images/chatSend.png'),
+
+  homelogo: require('./home/logo.webp'),
+  hidePassword: require('./hide.png'),
+  showPassword: require('./view.png'),
+  myProfileIcon: require('./profileicon.png')
+};
+module.exports = Images;
